@@ -1,3 +1,3 @@
-def order_grades(Name)
+def order_grades(*Names)
 
 end
